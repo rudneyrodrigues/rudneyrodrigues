@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="right" src="https://raw.githubusercontent.com/rudneyrodrigues/rudneyrodrigues/master/image/computer-illustration.png" width="350"/>
 
-<!--
-**rudneyrodrigues/rudneyrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/r%C3%BAdney-rodrigues-007b9113a/">
+<img align="right" alt="LinkedIn" src="https://media-exp1.licdn.com/dms/image/C4E03AQGb3gtvaavwQw/profile-displayphoto-shrink_800_800/0/1597233704440?e=1623888000&v=beta&t=rGNm1MN98HynPkGPeEZkE2pfIFBpfI3LFHZv86xWRoM"/>
+</a>
 
-Here are some ideas to get you started:
+<!-- <a href="mailto:m.amedeiros@hotmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+</a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Hey! Welcome to my profile! How is it going? 👋🥰
+
+- 💻 HTML, CSS, JS, Node, ReactJS, React Native, Typescript
+- ✨ Learning is continuous and there will always be a next level
+
