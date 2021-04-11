@@ -8,6 +8,6 @@
 
 ### Hey! Welcome to my profile! How is it going? 👋🥰
 
-- 💻 HTML, CSS, JS, Node, ReactJS, React Native, Typescript
+- 💻 HTML, CSS, JS, Node, ReactJS, Typescript
 - ✨ Learning is continuous and there will always be a next level
 
