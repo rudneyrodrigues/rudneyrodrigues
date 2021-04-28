@@ -13,6 +13,9 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?logo=css3&logoColor=white"/>
 
+<br>
+<br>
+
 ## 💻Coding Activity
 <img src="https://github-readme-stats.vercel.app/api?username=rudneyrodrigues&theme=vue" width="60%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudneyrodrigues&theme=vue&layout=compact" width="60%" />
