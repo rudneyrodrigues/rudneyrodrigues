@@ -23,4 +23,5 @@
 
 ### Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rudneyrodrigues/)
+[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white" />](https://www.facebook.com/in/rudney.rodrigues.3/)
 
