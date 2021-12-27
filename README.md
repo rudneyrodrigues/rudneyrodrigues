@@ -23,6 +23,6 @@
 
 ### Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rudneyrodrigues/)
-[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white" />](https://www.facebook.com/rudney.rodrigues.3/)
 [<img src="https://img.shields.io/badge/instagram-%23dd2a7b.svg?logo=instagram&logoColor=white" />](https://www.instagram.com/rudney.rodrigues.3/)
+[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white" />](https://www.facebook.com/rudney.rodrigues.3/)
 
