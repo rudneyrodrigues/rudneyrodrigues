@@ -1,28 +1,30 @@
-<img align="right" src="https://raw.githubusercontent.com/rudneyrodrigues/rudneyrodrigues/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/gist/rudneyrodrigues/cefc999d3fe23c792d8185c3a4e3ec3c/raw/50340e804cc7da0d674502cba4a741829f582b1b/githubcard.svg" width="600"/>
 
-<br/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rudney Rodrigues</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudneyrodrigues&color=yellow" alt="Profile views" /> </p>
 
-### Hey! Welcome to my profile! How is it going? 👋🥰
+- 🔥 Pleno Web Developer & Instructor focused on helping people start programming
 
-- 💻 HTML, CSS, JS, Node, ReactJS, Typescript
-- ✨ Learning is continuous and there will always be a next level
+- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, React, Next.js**
 
-<p> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?logo=node.js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?logo=typescript&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?logo=css3&logoColor=white"/>
+- 👨‍💻 More at [rudneyrodrigues.dev.br](https://rudneyrodrigues.dev.br)
 
-<br>
-<br>
 
-## 💻Coding Activity
-<img src="https://github-readme-stats.vercel.app/api?username=rudneyrodrigues&theme=vue" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudneyrodrigues&theme=vue&layout=compact" width="60%" />
-<br>
+<br><br>
 
-### Social
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rudneyrodrigues/)
-[<img src="https://img.shields.io/badge/instagram-%23dd2a7b.svg?logo=instagram&logoColor=white" />](https://www.instagram.com/rudney.rodrigues.3/)
-[<img src="https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white" />](https://www.facebook.com/rudney.rodrigues.3/)
+## Contact
 
+<p align="left">
+<a href="https://codepen.io/rudneyrodrigues" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-rudneyrodrigues-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://www.linkedin.com/in/rudneyrodrigues/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-rudneyrodrigues-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/rudney.rodrigues.3" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-rudney.rodrigues.3-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://www.youtube.com/@rudneyrodrigues" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-rudneyrodrigues-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+</p>
