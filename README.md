@@ -1,7 +1,7 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/rudneyrodrigues/cefc999d3fe23c792d8185c3a4e3ec3c/raw/50340e804cc7da0d674502cba4a741829f582b1b/githubcard.svg" width="350" />
+<!-- <img align="right" src="https://raw.githubusercontent.com/gist/rudneyrodrigues/cefc999d3fe23c792d8185c3a4e3ec3c/raw/50340e804cc7da0d674502cba4a741829f582b1b/githubcard.svg" width="350" /> -->
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rudney Rodrigues</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudneyrodrigues&color=yellow" alt="Profile views" /> </p>
+<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rudney Rodrigues</h1>
+<p> <img src="https://komarev.com/ghpvc/?username=rudneyrodrigues&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Pleno Web Developer & Instructor focused on helping people start programming
 
