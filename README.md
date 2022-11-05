@@ -3,7 +3,7 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rudney Rodrigues</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=rudneyrodrigues&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Pleno Web Developer & Instructor focused on helping people start programming
+- 🔥 Full Web Developer focused on developing applications and digital products in a modern and high quality way.
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, React, Next.js**
 
