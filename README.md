@@ -2,11 +2,11 @@
   <img align="right" src="https://images.blush.design/zV4kqq0-yOM8Mj4wX2eH?w=920&auto=compress&cs=srgb" alt="ilustração de um astronauta" width=40% height=40% />
 </a>
 
-## Iae dev 👋
+## Fala dev 👋
 
-Me chamo Rudney Rodrigues 🚀 e atuo como desenvolvedor Front-end e Mobile, aprimorando cada vez mais meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Rudney Rodrigues 🚀 e atuo como desenvolvedor Front-end e Mobile, sempre procuro aprimorar meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
-### Atualmente minha stack é:
+### Minha stack atual é:
 
 💻 Desenvolvimento Web front-end com ReactJS em conjunto de suas bibliotecas derivadas como NextJS e Vitejs respectivamente.
 
