@@ -18,7 +18,7 @@ Me chamo Rudney Rodrigues 🚀 e atuo como desenvolvedor Front-end e Mobile, sem
 
 ### Sobre mim:
 
-- 💻 Trabalho atualmente na [Ciberian Tecnologia](https://www.ciberian.com.br/).
+- 💻 Trabalho atualmente na [Solutis Tecnologia LTDA](https://solutis.com.br/).
 
 - 🎓 Tenho certificação em Desenvolvimento Web pelo programa Ignite da [Rocketseat](https://app.rocketseat.com.br/certificates/55a8312f-08f4-4acb-be7c-31042e6f746e).
 
