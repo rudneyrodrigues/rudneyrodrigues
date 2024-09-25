@@ -4,7 +4,7 @@
 
 ## Fala dev 👋
 
-Me chamo Rudney Rodrigues 🚀 e atuo como desenvolvedor Front-end e Mobile, sempre procuro aprimorar meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
+Me chamo Rudney Rodrigues 🚀 Atualmente trabalho como Analista de Suporte ao Cliente na Solutis Tecnologias LTDA. Tenho formação em ReactJS pela Rocketseat e estou me graduando em Analise e Desenvolvimento de Sistemas pela Uninassau. Sempre procuro aprimorar meus conhecimentos técnicos, estando preparado para conseguir impactar cada vez mais vidas e rotinas utilizando a programação!
 
 ### Minha stack atual é:
 
@@ -14,13 +14,13 @@ Me chamo Rudney Rodrigues 🚀 e atuo como desenvolvedor Front-end e Mobile, sem
 
 📡 APIs REST utilizando Node.js e suas principais bibliotecas como o express e fastify.
 
-💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL ou não relacionais utilizando Firebase/MongoDB.
+💾 Armazenamento em bancos de dados relacionais (SQL) como MySQL e PostgresSQL ou não relacionais utilizando Firebase/MongoDB.
 
 ### Sobre mim:
 
 - 💻 Trabalho atualmente na [Solutis Tecnologia LTDA](https://solutis.com.br/).
 
-- 🎓 Tenho certificação em Desenvolvimento Web pelo programa Ignite da [Rocketseat](https://app.rocketseat.com.br/certificates/55a8312f-08f4-4acb-be7c-31042e6f746e).
+- 🎓 Tenho certificação em ReactJS pelo programa Ignite da [Rocketseat](https://app.rocketseat.com.br/certificates/55a8312f-08f4-4acb-be7c-31042e6f746e).
 
 - 🔭 Estou sempre aberto para descobrir coisas novas.
 
